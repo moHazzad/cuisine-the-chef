@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Chef John",
+    "recipes": [
+      {
+        "name": "Garlic Butter Shrimp",
+        "ingredients": [
+          "1 pound large shrimp, peeled and deveined",
+          "4 cloves garlic, minced",
+          "1/4 cup butter",
+          "1/4 cup olive oil",
+          "1/4 cup chopped fresh parsley",
+          "Salt and black pepper to taste"
+        ],
+        "cooking_method": "1. In a large skillet, heat the butter and olive oil over medium-high heat. \n2. Add the garlic and cook until fragrant, about 1 minute. \n3. Add the shrimp and cook until pink and cooked through, about 3-4 minutes per side. \n4. Season with salt and black pepper, and stir in the chopped parsley. \n5. Serve hot.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "name": "Pesto Pasta",
+        "ingredients": [
+          "1 pound spaghetti",
+          "2 cups fresh basil leaves",
+          "1/2 cup grated Parmesan cheese",
+          "1/2 cup pine nuts",
+          "3 cloves garlic",
+          "1/2 cup olive oil",
+          "Salt and black pepper to taste"
+        ],
+        "cooking_method": "1. Cook the spaghetti according to package instructions until al dente. \n2. In a food processor, combine the basil, Parmesan cheese, pine nuts, and garlic. Pulse until finely chopped. \n3. With the motor running, slowly pour in the olive oil until the pesto is smooth. \n4. Season with salt and black pepper. \n5. Drain the spaghetti and toss with the pesto. \n6. Serve hot.",
+        "rating": 4.8,
+        "favorite": false
+      },
+      {
+        "name": "Beef Stroganoff",
+        "ingredients": [
+          "1 pound beef sirloin, sliced into thin strips",
+          "1 onion, chopped",
+          "1/2 pound mushrooms, sliced",
+          "2 cloves garlic, minced",
+          "1 cup beef broth",
+          "1 cup sour cream",
+          "2 tablespoons flour",
+          "2 tablespoons butter",
+          "Salt and black pepper to taste",
+          "Egg noodles, for serving"
+        ],
+        "cooking_method": "1. In a large skillet, melt the butter over medium-high heat. \n2. Add the beef and cook until browned on all sides. \n3. Remove the beef from the skillet and set aside. \n4. Add the onion and mushrooms to the skillet and cook until softened, about 5-7 minutes. \n5. Add the garlic and cook for another minute. \n6. Stir in the flour and cook for 1-2 minutes. \n7. Add the beef broth and stir to combine. \n8. Return the beef to the skillet and bring the mixture to a simmer. \n9. Cook for 10-15 minutes until the sauce has thickened. \n10. Stir in the sour cream and cook for another 2-3 minutes. \n11. Season with salt and black pepper. \n12. Serve hot over egg noodles.",
+        "rating": 4.3,
+        "favorite": false
+      }
+    ]
+    
+  }
+]
